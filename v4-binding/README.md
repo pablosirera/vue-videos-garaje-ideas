@@ -2,17 +2,16 @@
 
 Ejemplo básico con imagen en atributo src
 ```js
-<script setup>
-</script>
+<script setup></script>
 
 <template>
-	<img src="https://bit.ly/3yN7z3B" class="w-24" />
+  <img src="https://bit.ly/3yN7z3B" class="w-24" />
 </template>
 
 <style>
-  .w-24 {
-    width: 24rem;
-  }
+.w-24 {
+  width: 24rem;
+}
 </style>
 ```
 
@@ -24,16 +23,16 @@ const imgClasses = 'w-24'
 </script>
 
 <template>
-	<img
+  <img
     v-bind:src="image"
     v-bind:class="imgClasses"
   />
 </template>
 
 <style>
-  .w-24 {
-    width: 24rem;
-  }
+.w-24 {
+  width: 24rem;
+}
 </style>
 ```
 
@@ -67,9 +66,9 @@ const selectImage = (index) => {
 </template>
 
 <style>
-  .w-24 {
-    width: 24rem;
-  }
+.w-24 {
+  width: 24rem;
+}
 </style>
 ```
 
@@ -80,14 +79,14 @@ const buttonStyles = 'background-color:red'
 </script>
 
 <template>
-	<button :style="buttonStyles">
+  <button :style="buttonStyles">
     Botón
   </button>
 </template>
 
 <style>
-  .w-24 {
-    width: 24rem;
-  }
+.w-24 {
+  width: 24rem;
+}
 </style>
 ```
