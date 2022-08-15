@@ -1,4 +1,4 @@
-### Video 4. Binding Atributos
+## Video 4. Binding Atributos
 
 Ejemplo básico con imagen en atributo src
 ```js

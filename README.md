@@ -9,3 +9,5 @@ Repositorio con información sobre los videos de Vuejs del canal de Garaje de Id
 ### Video 4
 [Ejemplos del video](./v4-binding/README.md)
 
+### Video 5. Form Binding
+[Ejemplos del video](./v5-form-binding/README.md)
