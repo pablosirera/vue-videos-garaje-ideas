@@ -6,8 +6,11 @@ Repositorio con información sobre los videos de Vuejs del canal de Garaje de Id
 - Video 2
 - Video 3
 
-### Video 4
+### Video 4. Atributos dinámicos
 [Ejemplos del video](./v4-binding/README.md)
 
 ### Video 5. Form Binding
 [Ejemplos del video](./v5-form-binding/README.md)
+
+### Video 6. Lifecycle hooks
+[Ejemplos del video](./v6-lifecycle/README.md)
