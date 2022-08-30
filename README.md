@@ -14,3 +14,6 @@ Repositorio con información sobre los videos de Vuejs del canal de Garaje de Id
 
 ### Video 6. Lifecycle hooks
 [Ejemplos del video](./v6-lifecycle/README.md)
+
+### Video 7. Renderizado condicional y listas
+[Ejemplos del video](./v7-rendering-if-for/README.md)
