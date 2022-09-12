@@ -17,3 +17,6 @@ Repositorio con información sobre los videos de Vuejs del canal de Garaje de Id
 
 ### Video 7. Renderizado condicional y listas
 [Ejemplos del video](./v7-rendering-if-for/README.md)
+
+### Video 8. Componentes con Vuejs
+[Ejemplos del video](./v8-componentes/README.md)
