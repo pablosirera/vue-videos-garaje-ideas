@@ -20,3 +20,6 @@ Repositorio con información sobre los videos de Vuejs del canal de Garaje de Id
 
 ### Video 8. Componentes con Vuejs
 [Ejemplos del video](./v8-componentes/README.md)
+
+### Video 9. Provide / inject
+[Ejemplos del video](./v9-provide-inject/README.md)
