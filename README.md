@@ -24,5 +24,8 @@ Repositorio con información sobre los videos de Vuejs del canal de Garaje de Id
 ### Video 9. Provide / inject
 [Ejemplos del video](./v9-provide-inject/README.md)
 
+### Video 11. Directivas personalizadas
+[Ejemplos del video](./v11-custom-directives/README.md)
+
 ### Video 14. Transiciones con Vue
 [Ejemplos del video](./v14-transitions/README.md)
